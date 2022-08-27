@@ -1,5 +1,5 @@
 <!--
-**aaron-lane/aaron-lane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dfonong/daniel-** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Aaron Lane
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=aaron-lane)](https://github.com/LordDashMe/github-contribution-stats)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=dfonong)](https://github.com/LordDashMe/github-contribution-stats)
